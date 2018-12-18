@@ -170,7 +170,7 @@ end
 
 
 
---[[
+--[[]]
 
 while true do
 	vpnx()
@@ -183,7 +183,7 @@ while true do
 		awz_next()
 		awzname,var.idfa = getTrueName_awz()
 		
---		buy()  ---购买
+		buy()  ---购买
 				
 
 		check_mun() ----复查订单号                                        
@@ -200,12 +200,6 @@ end
 
 
 
-
-
-var.idfa  = readPasteboard()
-
-
-log(var.idfa )
 
 
 
